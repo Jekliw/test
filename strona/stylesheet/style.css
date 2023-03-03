@@ -22,4 +22,5 @@ div#midl1{
 }
 div#midl1,div#midr1{
     height: 500px;
+    float:left;
 }
