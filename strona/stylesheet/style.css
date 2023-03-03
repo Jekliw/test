@@ -13,6 +13,7 @@ div#top,div#midr1,div#bot{
 div#top,div#bot{
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px 20px 20px 20px;
+    clear:both;
 }
 div#midr1{
     width: 35%;
